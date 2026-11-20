@@ -1,1 +1,1 @@
-A simple working tic-tac-toe game to enjoy.
+A simple working tic-tac-toe game.
